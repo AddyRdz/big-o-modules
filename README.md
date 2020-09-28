@@ -9,6 +9,8 @@
 1. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a [new issue](). 
 1. The issue template will ask that you answer three exit ticket questions before submitting your issue, to summarize your learning on this topic.
 
+Tomorrow morning, we will dive deeper into our approach to CS in this course, Big O notation and use it to evaluate the efficiency of different code samples.
+
 Unless otherwise noted, homework is due at 10:00 AM ET the next day. 
 
 ## Overview
@@ -26,5 +28,3 @@ By the end of this lesson, you will be able to:
 
 ## Prerequisites
 - None
-
-Tomorrow morning, we will dive deeper into Big O Notation and use it to evaluate the efficiency of different code samples.
