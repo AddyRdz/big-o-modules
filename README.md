@@ -6,7 +6,7 @@
 
 1. If desired, fork and clone this repo. 
 1. Follow along the steps in this README to progress through the myGA modules.
-1. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a [new issue](). 
+1. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a [new issue](https://git.generalassemb.ly/sei-921/big-o-modules/issues/new). 
 1. The issue template will ask that you answer three exit ticket questions before submitting your issue, to summarize your learning on this topic.
 
 Tomorrow morning, we will dive deeper into our approach to CS in this course, Big O notation and use it to evaluate the efficiency of different code samples.
