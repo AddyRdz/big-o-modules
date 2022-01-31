@@ -1,3 +1,12 @@
+---
+name: Reading Questions
+about: Answer the questions below!
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### Answer the questions below! 
 
 1. In your own words, define the terms "Computer Science", "Data Structure" and "Algorithm"
@@ -11,4 +20,3 @@
 
 3. What two complexities does Big O Notation refer to? Describe each briefly. 
 >Your answer here.
-
