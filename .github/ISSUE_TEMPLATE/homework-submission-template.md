@@ -1,13 +1,13 @@
 ---
-name: Reading Questions
-about: Answer the questions below!
-title: ''
+name: Homework submission template
+about: Issue for submitting homework
+title: YOUR FULL NAME
 labels: ''
 assignees: ''
 
 ---
 
-### Answer the questions below! 
+## Answer the questions below! 
 
 1. In your own words, define the terms "Computer Science", "Data Structure" and "Algorithm"
 >Your answer here.

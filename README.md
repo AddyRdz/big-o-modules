@@ -14,14 +14,12 @@ For the myGA modules, focus on grasping the main ideas and larger concepts. The 
 
 Tomorrow morning, we will dive deeper into our approach to CS in this course, algorithms, and Big O notation and use it to evaluate the efficiency of different code samples.
 
-Unless otherwise noted, homework is due at 10:00 AM ET the next day. 
-
 ## Overview
 
 There are three parts to this lesson:
 1. [myGA module: Intro to Computer Science](https://my.generalassemb.ly/activities/513)
 1. [myGA module: Intro to Algorithms](https://my.generalassemb.ly/activities/780)
-2. [myGA module: Big O Notation](https://my.generalassemb.ly/activities/511)
+1. [myGA module: Big O Notation](https://my.generalassemb.ly/activities/511)
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
