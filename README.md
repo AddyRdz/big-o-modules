@@ -10,16 +10,17 @@ For the myGA modules, focus on grasping the main ideas and larger concepts. The 
 
 1. Follow along the steps in this README to progress through the myGA modules.
 1. When you are finished, submit your assignment by clicking on the "Issues" tab above this repo to start a new issue.
-1. The issue template will ask that you answer several concept-based, code-free questions before submitting your issue, to summarize your learning on this topic.
+1. The issue template will ask that you answer a number of exit ticket questions before submitting your issue, to summarize your learning on this topic.
 
 Tomorrow morning, we will dive deeper into our approach to CS in this course, algorithms, and Big O notation and use it to evaluate the efficiency of different code samples.
 
 ## Overview
 
-There are three parts to this lesson:
+There are four parts to this lesson. For your deliverable you will be reading through the myGA modules and answering the questions in the "Issues" template.
 1. [myGA module: Intro to Computer Science](https://my.generalassemb.ly/activities/513)
 1. [myGA module: Intro to Algorithms](https://my.generalassemb.ly/activities/780)
 1. [myGA module: Big O Notation](https://my.generalassemb.ly/activities/511)
+1. [In-class Lesson: Big O Notation](https://git.generalassemb.ly/HenryH/big-o-lesson) - Tomorrow's activity!
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
@@ -40,7 +41,3 @@ By the end of this lesson, you will be able to:
 
 ## Prerequisites
 - None
-
-
-
-

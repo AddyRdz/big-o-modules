@@ -1,7 +1,7 @@
 ---
 name: Homework submission template
 about: Issue for submitting homework
-title: YOUR FULL NAME
+title: Your Name Here
 labels: ''
 assignees: ''
 
